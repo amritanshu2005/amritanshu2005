@@ -1,8 +1,6 @@
 ## Hi there 👋
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" width="60" height="60" />
