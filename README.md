@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## 🛠 Tech Stack
 
+## I Am Amritanshu Kumar
+
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" width="60" height="60" />
