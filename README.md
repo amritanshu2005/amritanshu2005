@@ -1,6 +1,6 @@
 <!-- Animated Typing Header with Multiple Lines & Colorful Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
 </p>
 
 <!-- Name and Professional Titles Typing Effect (Improved) -->
