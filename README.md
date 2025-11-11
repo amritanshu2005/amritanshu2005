@@ -1,6 +1,6 @@
 <!-- Typing Header with Multiple Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;A+passionate+developer+from+India.;Open+Source+Enthusiast+%F0%9F%92%BB;Lifelong+learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+%7C+AI%2FML+Enthusiast.;Lifelong+learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,33 +26,26 @@
 
 <!-- More typing effect for intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=3DF7D1&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Lover;Cloud+and+Open+Source+Enthusiast;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=3DF7D1&size=22&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AIML+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New!" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🚀 Aspiring Full Stack Developer
-- 🎓 Exploring advanced tech (React, Node, Cloud)
-- 🎯 Goal: Code projects that make a difference
-- 👐 Always excited to collaborate and innovate
+- 👨‍💻 MERN Stack Developer
+- 🤖 AI/ML Enthusiast
+- 🎯 Goal: Build impactful and scalable applications
+- 👐 Passionate about open-source
 - 📬 You can reach me at: **amritanshuchaudhary60@gmail.com**
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&margin-w=10&row=2&column=4&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,c,cpp,java,python,git,github,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,c,cpp,git,github,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" title="AI/ML: TensorFlow, PyTorch" width="60" height="60" />
 </p>
 
 ---
@@ -72,10 +65,10 @@
 
 ## 💡 Fun Facts
 
-- 🏆 Hackathon lover and participant
+- 🤖 I explore AI/ML projects for fun and learning
+- 🌱 I love open-source and collaboration
+- 🤓 Always eager to learn new tech and frameworks
 - 🎮 Gamer and music enthusiast
-- 🤹 Multilingual coder (C, C++, Java, JS, Python)
-- 🌏 Love learning about new technologies & frameworks
 
 ---
 
