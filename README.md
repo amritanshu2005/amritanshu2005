@@ -1,17 +1,14 @@
 <!-- Animated Typing Header with Multiple Lines & Colorful Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hello+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
 </p>
-<!-- Second line: "I am Amritanshu Kumar" -->
+
+<!-- Name and Professional Titles Typing Effect (Improved) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=1000&color=19FFE5&center=true&vCenter=true&width=800&lines=Hi+there!+👋+Welcome+to+my+GitHub!;I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐" 
-    alt="Typing SVG Animation"
-/>
-</p>
-<!-- Third: Skills Typing Effect (AFTER "I am Amritanshu Kumar") -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2300&pause=800&color=00F7A2&center=true&width=550&lines=MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐"/>
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️"
+    alt="Typing Animation"
+  />
 </p>
 
 <h1 align="center">
