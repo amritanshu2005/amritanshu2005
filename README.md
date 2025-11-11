@@ -1,13 +1,14 @@
 <!-- Animated Typing Header with Multiple Lines & Colorful Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=16E2F5&background=2A2A2A00&center=true&multiline=true&width=700&size=32&vCenter=true&lines=Hi+there!+👋+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Creative+Coder+🔥;Lifelong+Learner+%F0%9F%94%8A+Tech+Lover+%F0%9F%8C%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
 </p>
-
----
-
-<!-- Beautiful Animated Typing Skill Section -->
+<!-- Second line: "I am Amritanshu Kumar" -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=2200&pause=750&color=16E2F5&background=2A2A2A00&center=true&vCenter=true&width=670&lines=MERN+Stack+Developer+%F0%9F%92%BC;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%AA;Creative+Coder+%F0%9F%94%A5;Always+Learning+and+Building!+%F0%9F%92%97"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=700&color=FF4F8B&width=700&center=true&lines=I+am+Amritanshu+Kumar"/>
+</p>
+<!-- Third: Skills Typing Effect (AFTER "I am Amritanshu Kumar") -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2300&pause=800&color=00F7A2&center=true&width=550&lines=MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐"/>
 </p>
 
 <h1 align="center">
@@ -52,11 +53,24 @@
 ## 🛠️ <span style="color:#FF4F8B">Tech Stack</span>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="46" height="46"/>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" width="46" height="46"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="46" height="46"/>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" width="46" height="46"/>
-  <img src="https://skillicons.dev/icons?i=html,css" width="46" height="46"/>
+  <!-- Large Tech Stack Icons for Greater Impact -->
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light" width="65" height="65"/>
 </p>
 
 ---
@@ -67,9 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats" height="170px"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" height="170px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical"/>
 </p>
 
 ---
