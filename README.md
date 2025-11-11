@@ -1,6 +1,32 @@
-<!-- Animated Header -->
+<!-- Typing Header with Multiple Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Hi+there!+👋;I+Am+Amritanshu+Kumar;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;A+passionate+developer+from+India.;Open+Source+Enthusiast+%F0%9F%92%BB;Lifelong+learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
+</p>
+
+---
+
+<h1 align="center">👋 I Am Amritanshu Kumar</h1>
+
+<p align="center">
+  <a href="https://github.com/amritanshu2005">
+    <img src="https://img.shields.io/badge/GitHub-amritanshu2005-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amritanshu-kumar-825765328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amritanshuchaudhary60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amritanshuchaudhary60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://amritanshuportfolio56.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- More typing effect for intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=3DF7D1&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Lover;Cloud+and+Open+Source+Enthusiast;Always+Learning+Something+New!" />
 </p>
 
 ---
@@ -8,17 +34,17 @@
 ## 💫 About Me
 
 - 🚀 Aspiring Full Stack Developer
-- 🎓 Currently learning ReactJS, Node.js & Cloud
-- ⚡ Love building creative projects & contributing to open source
-- 🌱 Always curious to learn new technologies
-- 🥇 Open for collaboration on exciting projects
+- 🎓 Exploring advanced tech (React, Node, Cloud)
+- 🎯 Goal: Code projects that make a difference
+- 👐 Always excited to collaborate and innovate
+- 📬 You can reach me at: **amritanshuchaudhary60@gmail.com**
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&margin-w=10&no-frame=true" alt="Github Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&margin-w=10&row=2&column=4&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -31,25 +57,25 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical" alt="GitHub Stats" height="170px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" alt="Top Languages" height="170px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🤹 Fun Facts
+## 💡 Fun Facts
 
-- 🐱‍💻 I love competitive programming!
-- 🎮 Big fan of open source hackathons and building communities.
-- ✈️ Dream: Build an app millions will love to use.
+- 🏆 Hackathon lover and participant
+- 🎮 Gamer and music enthusiast
+- 🤹 Multilingual coder (C, C++, Java, JS, Python)
+- 🌏 Love learning about new technologies & frameworks
 
 ---
 
@@ -63,28 +89,28 @@
 
 <p align="center">
   <a href="https://github.com/amritanshu2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-amritanshu2005-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:amritanshukumar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amritanshu-kumar-825765328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:amritanshuchaudhary60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amritanshuchaudhary60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://amritanshuportfolio56.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 More Inspiration
+## 🎨 More Inspiration
 
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  
-  Quickly create and customize your profile with this generator tool.
+  Create and customize your own amazing profile!
 
 - [Awesome GitHub Profile READMEs](https://github.com/coderjojo/creative-profile-readme)  
-  Browse hundreds of creative README examples for design ideas!
+  Inspiration from the most creative profiles!
 
 ---
 
