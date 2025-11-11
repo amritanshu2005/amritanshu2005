@@ -1,11 +1,19 @@
-<!-- Animated Typing Header with Multiple Lines -->
+<!-- Animated Typing Header with Multiple Lines & Stylish Colorful Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Open+Source+Contributor+%7C;Lifelong+Learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2100&pause=800&color=19FFE5&width=700&size=36&center=true&vCenter=true&lines=Hi+there!+👋+Welcome+to+my+GitHub!" alt="Typing Hi There"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=400&color=FF4F8B&width=700&center=true&lines=I+am+Amritanshu+Kumar" alt="Typing I am Amritanshu Kumar"/>
 </p>
 
----
+<!-- Skills and More Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2200&pause=750&color=16E2F5&background=2A2A2A00&center=true&vCenter=true&width=670&lines=MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Creative+Coder+🔥;Lifelong+Learner+%F0%9F%94%8A+Tech+Lover+%F0%9F%8C%8E"/>
+</p>
 
-<h1 align="center">👋 I Am Amritanshu Kumar</h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%91%8B%20I%20am%20Amritanshu%20Kumar-ec4899?style=for-the-badge&labelColor=363636&color=6700f7"/>
+</h1>
 
 <p align="center">
   <a href="https://github.com/amritanshu2005">
@@ -15,91 +23,82 @@
     <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amritanshuchaudhary60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amritanshuchaudhary60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-amritanshuchaudhary60%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://amritanshuportfolio56.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Dynamic Typing Effect for Skill Highlights -->
+## 🚀 <span style="color:#19ffe5">About Me</span>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:19ffe5,100:a259f7&height=85&section=header&text=About%20Me&fontSize=38&fontAlign=40&fontColor=ffffff"/>
+</div>
+
+<ul>
+  <li>👨‍💻 <b>MERN Stack Developer</b> (MongoDB, Express, React, Node.js)</li>
+  <li>🤖 <b>AI/ML Enthusiast</b> (Python, TensorFlow, PyTorch)</li>
+  <li>🌍 <b>Open Source Contributor & Lifelong Learner</b></li>
+  <li>💡 <b>Creative Coder</b> building and learning every day</li>
+  <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/amritanshu-kumar-825765328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">amritanshu-kumar-825765328</a></li>
+  <li>🌐 <b>Portfolio:</b> <a href="https://amritanshuportfolio56.netlify.app/">amritanshuportfolio56.netlify.app</a></li>
+  <li>✉️ <b>Email:</b> <a href="mailto:amritanshuchaudhary60@gmail.com">amritanshuchaudhary60@gmail.com</a></li>
+</ul>
+
+---
+
+## 🛠️ <span style="color:#FF4F8B">Tech Stack</span>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=700&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=41F7DA&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;
-    Always+Learning+Something+New!" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=html,css" width="46" height="46"/>
 </p>
 
 ---
 
-## 💫 About Me
-
-- 👨‍💻 **MERN Stack Developer** (MongoDB, Express, React, Node.js)
-- 🤖 **AI/ML Enthusiast** (Python, TensorFlow, PyTorch)
-- 🏅 **4 Star in Problem Solving on LeetCode**
-- 🧑‍💻 **150+ LeetCode Questions Solved**
-- 🌍 **Open Source Contributor & Lifelong Learner**
-- ✉️ Drop me an email: [amritanshuchaudhary60@gmail.com](mailto:amritanshuchaudhary60@gmail.com)
-- 🌐 Visit my website: [amritanshuportfolio56.netlify.app](https://amritanshuportfolio56.netlify.app/)
-
----
-
-## 🛠️ Tech Stack
+## 🎉 <span style="color:#19ffe5">GitHub Stats & Activity</span>
 
 <p align="center">
-  <!-- Core MERN Stack -->
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" width="48" height="48"/>
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" width="48" height="48"/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" width="48" height="48"/>
-  <!-- AIML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" title="TensorFlow, PyTorch" width="48" height="48"/>
-  <!-- Web Tech -->
-  <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48"/>
-</p>
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical" height="170px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats" height="170px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" height="170px" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" height="170px"/>
 </p>
 
 ---
 
-## 💡 Fun Facts
+## 🌈 <span style="color:#FF4F8B">Fun Facts</span>
 
-- 🤖 Always building something new in AI/ML for fun
-- 🌱 Contributor to open-source projects and tech communities
-- 💡 Passionate about clean code and efficient problem solving
-- 🎮 Loves gaming, music and creative collaboration
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F8B,100:19ffe5&height=85&section=header&text=Fun%20Facts&fontSize=36&fontAlign=70&fontColor=ffffff"/>
+</div>
 
----
-
-## 📢 Quote of the Day
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- 🤖 Always building something innovative in AI/ML for fun!
+- 🌱 Passionate open-source and tech community contributor.
+- 💡 Believer in clean code and efficient solutions.
+- 🎮 Loves gaming, music, and creative collaboration.
 
 ---
 
-## 🌐 Contact & Links
+## 💬 <span style="color:#19ffe5">Quote of the Day</span>
+
+<blockquote align="center" style="font-size:1.2em;color:#a259f7;">“Code is like humor. When you have to explain it, it’s bad.”<br/>– Cory House</blockquote>
+
+---
+
+## 🔗 <span style="color:#FF4F8B">Contact & Important Links</span>
 
 <p align="center">
   <a href="mailto:amritanshuchaudhary60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amritanshuchaudhary60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-amritanshuchaudhary60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://amritanshuportfolio56.netlify.app/">
-    <img src="https://img.shields.io/badge/My%20Website-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amritanshu-kumar-825765328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -111,13 +110,9 @@
 
 ---
 
-## 🎨 More Inspiration
-
-- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  
-  Create and customize your own amazing profile!
-
-- [Awesome GitHub Profile READMEs](https://github.com/coderjojo/creative-profile-readme)  
-  Inspiration from the most creative profiles!
+## ✨ <span style="color:#CA39FF">More Inspiration</span>
+- <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a>
+- <a href="https://github.com/coderjojo/creative-profile-readme">Awesome GitHub Profile READMEs</a>
 
 ---
 
