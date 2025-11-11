@@ -1,14 +1,13 @@
-<!-- Animated Typing Header with Multiple Lines & Stylish Colorful Effect -->
+<!-- Animated Typing Header with Multiple Lines & Colorful Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2100&pause=800&color=19FFE5&width=700&size=36&center=true&vCenter=true&lines=Hi+there!+👋+Welcome+to+my+GitHub!" alt="Typing Hi There"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=400&color=FF4F8B&width=700&center=true&lines=I+am+Amritanshu+Kumar" alt="Typing I am Amritanshu Kumar"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=16E2F5&background=2A2A2A00&center=true&multiline=true&width=700&size=32&vCenter=true&lines=Hi+there!+👋+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Creative+Coder+🔥;Lifelong+Learner+%F0%9F%94%8A+Tech+Lover+%F0%9F%8C%8E" alt="Typing SVG" />
 </p>
 
-<!-- Skills and More Animated Typing -->
+---
+
+<!-- Beautiful Animated Typing Skill Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2200&pause=750&color=16E2F5&background=2A2A2A00&center=true&vCenter=true&width=670&lines=MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Creative+Coder+🔥;Lifelong+Learner+%F0%9F%94%8A+Tech+Lover+%F0%9F%8C%8E"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=2200&pause=750&color=16E2F5&background=2A2A2A00&center=true&vCenter=true&width=670&lines=MERN+Stack+Developer+%F0%9F%92%BC;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%AA;Creative+Coder+%F0%9F%94%A5;Always+Learning+and+Building!+%F0%9F%92%97"/>
 </p>
 
 <h1 align="center">
@@ -68,6 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats" height="170px"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" height="170px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical"/>
 </p>
 
 ---
