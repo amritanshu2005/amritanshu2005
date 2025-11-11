@@ -4,7 +4,10 @@
 </p>
 <!-- Second line: "I am Amritanshu Kumar" -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=700&color=FF4F8B&width=700&center=true&lines=I+am+Amritanshu+Kumar"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=1000&color=19FFE5&center=true&vCenter=true&width=800&lines=Hi+there!+👋+Welcome+to+my+GitHub!;I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐" 
+    alt="Typing SVG Animation"
+/>
 </p>
 <!-- Third: Skills Typing Effect (AFTER "I am Amritanshu Kumar") -->
 <p align="center">
