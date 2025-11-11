@@ -1,6 +1,6 @@
 <!-- Animated Typing Header with Multiple Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Open+Source+Contributor+%7C+150%2B+LeetCode+Questions+%7C+4%E2%AD%90+in+Problem+Solving;Lifelong+Learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;I'm+Amritanshu+Kumar.;MERN+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Open+Source+Contributor+%7C;Lifelong+Learner+and+Tech+Lover+%F0%9F%94%8A" alt="Typing SVG" />
 </p>
 
 ---
