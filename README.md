@@ -26,7 +26,8 @@
 
 <!-- Dynamic Typing Effect for Skill Highlights -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=700&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=41F7DA&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;150%2B+LeetCode+Questions;4%E2%AD%90+in+Problem+Solving;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=700&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=41F7DA&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;
+    Always+Learning+Something+New!" />
 </p>
 
 ---
