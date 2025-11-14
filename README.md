@@ -59,7 +59,6 @@
   <img src="https://skillicons.dev/icons?i=react&theme=light" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=typescript&theme=light" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=python&theme=light" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="65" height="65"/>
