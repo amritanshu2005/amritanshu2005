@@ -1,9 +1,9 @@
-<!-- Animated Typing Header with Multiple Lines & Colorful Effect -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+GitHub!"/>
 </p>
 
-<!-- Name and Professional Titles Typing Effect -->
+<!-- Name and Roles -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️"
@@ -16,55 +16,73 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/amritanshu2005">
-    <img src="https://img.shields.io/badge/GitHub-amritanshu2005-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amritanshu-kumar-825765328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amritanshuchaudhary60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-amritanshuchaudhary60%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://amritanshuportfolio56.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-amritanshuportfolio56.netlify.app-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
+  <a href="https://github.com/amritanshu2005">GitHub Profile</a> •
+  <a href="https://linkedin.com/in/amritanshu-kumar-825765328">LinkedIn</a> •
+  <a href="mailto:amritanshuchaudhary60@gmail.com">Email</a> •
+  <a href="https://amritanshuportfolio56.netlify.app/">Portfolio</a>
 </p>
 
 ---
 
-## 🚀 <span style="color:#19ffe5">About Me</span>
+## 🚀 About Me
 
-<ul>
-  <li>👨‍💻 <b>MERN Stack Developer</b> (MongoDB, Express, React, Node.js)</li>
-  <li>🤖 <b>AI/ML Enthusiast</b> (Python, TensorFlow, PyTorch, NumPy, Pandas)</li>
-  <li>🎨 <b>Frontend Animations</b> using <b>GSAP</b></li>
-  <li>🌍 <b>Open Source Contributor & Lifelong Learner</b></li>
-  <li>✨ Passionate about building innovative and scalable solutions</li>
-</ul>
+👨‍💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
+🤖 AI & ML Enthusiast (Python, TensorFlow, PyTorch, NumPy, Pandas)  
+🎨 Frontend Animator using GSAP  
+🌍 Open Source Contributor  
+✨ Exploring new technologies & building innovative products  
 
 ---
 
-## 🛠️ <span style="color:#FF4F8B">Tech Stack</span>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,python,java,cpp,firebase,postman,git,github,tensorflow,pytorch,npm" />
-  <img src="https://skillicons.dev/icons?i=vscode,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-### ⚡ Additional Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-animation-88CE02?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+### 🎨 Frontend Development
+**HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, GSAP**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 <span style="color:#19ffe5">GitHub Stats & Achievements</span>
+### 🏗️ Backend Development
+**Node.js, Express.js**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Databases
+**MongoDB, Firebase**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+---
+
+### 🧠 AI / Machine Learning
+**Python, TensorFlow, PyTorch, NumPy, Pandas**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Developer Tools & Others
+**Git, GitHub, Linux, VS Code, Postman, NPM, Java, C++**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,java,cpp" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=false" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical" height="180px" />
 </p>
 
 <p align="center">
@@ -73,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&title=All" />
 </p>
 
 ---
@@ -81,7 +99,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark"/>
 </p>
 
 ---
@@ -89,43 +107,35 @@
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu2005/amritanshu2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/amritanshu2005/amritanshu2005/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🌈 Fun Facts
 
-- 🤖 Always learning something cool in AI/ML  
-- 🎯 Clean code & performance focused  
-- 🎮 Games + Music = Perfect weekend  
-- 🌍 Loves community & tech events  
+- 🤖 Always learning new tech skills  
+- 🧠 Obsessed with AI & Web Innovation  
+- 🎯 Believe in clean & efficient code  
+- 🎵 Music & Games = Perfect combo  
 
 ---
 
 ## 💬 Quote of the Day
-
-<blockquote align="center" style="font-size:1.2em;color:#a259f7;">“Code is like humor. When you have to explain it, it’s bad.”<br/>– Cory House</blockquote>
-
----
-
-## 🔗 Contact Me Anytime
-
-<p align="center">
-  <a href="mailto:amritanshuchaudhary60@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://amritanshuportfolio56.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-29c6b6?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/amritanshu-kumar-825765328">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<blockquote align="center">
+  “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+</blockquote>
 
 ---
+
+## 📩 Contact Me
+
+📧 Email: **amritanshuchaudhary60@gmail.com**  
+🔗 LinkedIn: **https://linkedin.com/in/amritanshu-kumar-825765328**  
+🌐 Portfolio: **https://amritanshuportfolio56.netlify.app/**  
+🖥️ GitHub: **https://github.com/amritanshu2005**  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amritanshu2005&style=flat-square&color=brightgreen"/>
-  <img src="https://img.shields.io/github/followers/amritanshu2005?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/followers/amritanshu2005?style=social"/>
 </p>
