@@ -39,7 +39,7 @@
 ### 🎨 Frontend Development
 **HTML, CSS, JavaScript, React.js,Tailwind CSS, GSAP**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
