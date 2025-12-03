@@ -72,9 +72,9 @@
 ---
 
 ### ⚙️ Developer Tools & Others
-**Git, GitHub, Linux, VS Code, Postman, NPM, Java, C++**
+**Git, GitHub, VS Code, Postman, NPM, Java, C++**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,java,cpp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,java,cpp" />
 </p>
 
 ---
