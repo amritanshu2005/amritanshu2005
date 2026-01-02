@@ -1,14 +1,11 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi!  +%F0%9F%91%8B+Welcome+to+my+GitHub!  "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi! +%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </p>
 
 <!-- Name and Roles -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️" alt="Typing Animation"/>
 </p>
 
 <h1 align="center">
@@ -24,10 +21,10 @@
 
 <!-- Profile Views and Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritanshu2005&style=flat-square&color=brightgreen"/>
-  <img src="https://img.shields.io/github/followers/amritanshu2005?style=social"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen. svg?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red? style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=amritanshu2005&style=flat-square&color=brightgreen" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/amritanshu2005?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen. svg?style=flat&logo=github" alt="PRs Welcome"/>
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red? style=flat" alt="Open Source Love"/>
 </p>
 
 ---
@@ -47,34 +44,34 @@
 ### 🎨 Frontend Development
 **HTML, CSS, JavaScript, React.js, Tailwind CSS, GSAP**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-<img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills"/>
+<img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=javascript&logoColor=white" alt="GSAP"/>
 </p>
 
 ### 🏗️ Backend Development
-**Node. js, Express.js**
+**Node.js, Express.js**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills"/>
 </p>
 
 ### 🗄️ Databases
 **MongoDB, Firebase**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database Skills"/>
 </p>
 
 ### 🧠 AI / Machine Learning
 **Python, TensorFlow, PyTorch, NumPy, Pandas**
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML Skills"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ### ⚙️ Developer Tools & Others
 **Git, GitHub, VS Code, Postman, NPM, Java, C++**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,java,cpp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,java,cpp" alt="Tools"/>
 </p>
 
 ---
@@ -82,13 +79,13 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut&theme=radical&hide_border=true" alt="Language Donut" width="49%"/>
 </p>
 
 ---
@@ -96,7 +93,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
@@ -104,7 +101,7 @@
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
@@ -166,7 +163,7 @@
 <summary><b>📚 Documentation & Guides</b></summary>
 
 - 📖 **AlgoFi**: Created comprehensive CONTRIBUTION_GUIDE and QUICK_START guide
-- 🔧 **AlgoFi**:  Added backend and frontend `.env. example` files for easier setup
+- 🔧 **AlgoFi**: Added backend and frontend `.env. example` files for easier setup
 - ✍️ Multiple README improvements across various projects
 
 </details>
@@ -253,17 +250,17 @@ console.log("Always learning, always building!  🚀");
 <summary><b>🎨 Frontend Development</b></summary>
 
 ```yaml
-Core: 
+Core:
   - HTML5, CSS3, JavaScript (ES6+)
   - React.js, Redux, Context API
   - Responsive Design & Mobile-First Approach
   
-Styling:
+Styling: 
   - Tailwind CSS, Bootstrap
   - CSS Animations & Transitions
   - GSAP for Advanced Animations
   
-Tools:
+Tools: 
   - Webpack, Vite, npm/yarn
   - Chrome DevTools, React DevTools
 ```
@@ -325,7 +322,7 @@ Tools:
 - 🎵 Music & Games = Perfect combo  
 - ☕ Coffee-powered coder  
 - 🌙 Night owl - Best code at 2 AM!  🌜  
-- 🐛 Debug with console.log() and proud! 😄  
+- 🐛 Debug with console.log() and proud!  😄  
 
 ---
 
@@ -405,7 +402,7 @@ If you find my work helpful or interesting:
 <div align="center">
 
 ### Currently Learning 📚
-![Advanced React](https://img.shields.io/badge/-Advanced_React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Advanced React](https://img.shields.io/badge/-Advanced_React-61DAFB? style=flat-square&logo=react&logoColor=black)
 ![System Design](https://img.shields.io/badge/-System_Design-000000?style=flat-square&logo=system&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-0089D6?style=flat-square&logo=cloud&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -423,7 +420,7 @@ If you find my work helpful or interesting:
 
 <div align="center">
 
-### 🌟 Thanks for visiting!  Let's build something amazing together! 🚀
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
