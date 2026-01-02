@@ -99,39 +99,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=amritanshu2005&theme=radical&no-frame=true&title=All" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&title=All" />
 </p>
 
 ---
 
 ## 📈 Advanced GitHub Analytics
 
-<!-- Comprehensive Stats Grid -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel. app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amritanshu2005&theme=radical&hide_border=true" />
-</div>
-
-<!-- Detailed Language Stats -->
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut-vertical&theme=radical&hide_border=true" />
 </div>
 
-<!-- Contribution Stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=amritanshu2005&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=amritanshu2005&theme=radical" width="100%" />
 </div>
 
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=amritanshu2005&theme=radical" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2005&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritanshu2005&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards. vercel.app/api/cards/stats?username=amritanshu2005&theme=radical" />
 </div>
 
 <div align="center">
@@ -139,13 +131,8 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub+Stats" />
 </div>
 
-<!-- Additional Metrics -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/amritanshu2005?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&repositories=1&stars=1&habits=1&achievements=1&notable=1&isocalendar=1&config.timezone=Asia%2FKolkata" width="100%" />
 </div>
 
 ---
@@ -175,48 +162,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 </p>
-
----
-
-## 📊 Detailed Language & Repository Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&langs_count=12&layout=compact&theme=radical&hide_border=true&card_width=800" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=amritanshu2005&theme=monokai" />
-</div>
-
----
-
-## 💻 Code Activity & Productivity
-
-<!-- WakaTime Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amritanshu2005&theme=radical&layout=compact&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" width="49%" />
-</div>
-
-<!-- Productivity Graph -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/productive-time?username=amritanshu2005&theme=radical&utcOffset=5. 5" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/most-commit-language?username=amritanshu2005&theme=radical" width="49%" />
-</div>
-
----
-
-## 🌟 Repository Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel. app/api/pin/?username=amritanshu2005&repo=git-gang&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu2005&repo=github-readme-quotes&theme=radical&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu2005&repo=first-contributions&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu2005&repo=amritanshu2005&theme=radical&hide_border=true" width="49%" />
-</div>
 
 ---
 
@@ -268,7 +213,7 @@
 <details>
 <summary><b>🎨 Frontend & UI Improvements</b></summary>
 
-- 🏠 **RuRal-ReTreats**: Enhanced homestays page layout with improved styling and responsiveness
+- 🏠 **RuRal-ReTreats**:  Enhanced homestays page layout with improved styling and responsiveness
 - 🎯 **AlgoFi**:  Improved project structure and added comprehensive documentation
 - 📱 Focused on creating responsive and user-friendly interfaces
 
@@ -296,7 +241,7 @@
 <summary><b>🌐 Open Source Contributions</b></summary>
 
 - 🤝 **Git Gang**: Active contributor to open-source learning projects
-- 🌍 **First Contributions**: Helping newcomers start their open-source journey
+- 🌍 **First Contributions**:  Helping newcomers start their open-source journey
 - 💡 Participating in various open-source initiatives
 
 </details>
@@ -337,18 +282,6 @@ const currentActivities = {
 
 console.log("Always learning, always building!  🚀");
 ```
-
----
-
-## 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu2005/amritanshu2005/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu2005/amritanshu2005/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
@@ -398,12 +331,12 @@ console.log("Always learning, always building!  🚀");
 <summary><b>🎨 Frontend Development</b></summary>
 
 ```yaml
-Core:  
+Core:   
   - HTML5, CSS3, JavaScript (ES6+)
   - React.js, Redux, Context API
   - Responsive Design & Mobile-First Approach
   
-Styling:
+Styling: 
   - Tailwind CSS, Bootstrap
   - CSS Animations & Transitions
   - GSAP for Advanced Animations
@@ -420,7 +353,7 @@ Tools:
 
 ```yaml
 Runtime & Frameworks:
-  - Node.js, Express. js
+  - Node.js, Express.js
   - RESTful API Design
   - Authentication & Authorization (JWT, OAuth)
   
@@ -452,38 +385,13 @@ Applications:
   - Neural Networks
   - Natural Language Processing (Basic)
   
-Tools:
+Tools: 
   - Jupyter Notebooks
   - Google Colab
   - scikit-learn
 ```
 
 </details>
-
----
-
-## 🎨 Additional Visual Stats
-
-<div align="center">
-  
-<!-- Isometric Contribution Calendar -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritanshu2005&theme=radical" width="100%" />
-
-<!-- 3D Contribution Graph -->
-<img src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF4F8B&icon_color=19FFE5&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true&background=0D1117&stroke=19FFE5&ring=FF4F8B&fire=FF4F8B&currStreakLabel=19FFE5" width="49%" />
-
-</div>
-
----
-
-## 📊 Commit & Language Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=amritanshu2005&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2005&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritanshu2005&theme=radical" width="32%" />
-</div>
 
 ---
 
@@ -506,7 +414,7 @@ Tools:
 </blockquote>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
@@ -517,12 +425,12 @@ Tools:
 
 📧 Email: **amritanshuchaudhary60@gmail.com**  
 🔗 LinkedIn: **https://linkedin.com/in/amritanshu-kumar-825765328**  
-🌐 Portfolio: **https://amritanshuportfolio56.netlify.app/**  
+🌐 Portfolio: **https://amritanshuportfolio56.netlify. app/**  
 🖥️ GitHub: **https://github.com/amritanshu2005**  
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail. com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-kumar-825765328)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://amritanshuportfolio56.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshu2005)
@@ -531,13 +439,13 @@ Tools:
 
 ---
 
-## 🤝 Let's Collaborate! 
+## 🤝 Let's Collaborate!  
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects!  🚀
+I'm always open to collaborating on interesting projects! 🚀
 
-### Looking for: 
+### Looking for:  
 - 💼 **Open Source Projects** to contribute
 - 🌟 **Exciting Collaborations** in Web Dev & AI/ML
 - 📚 **Mentorship Opportunities** to learn and grow
@@ -557,7 +465,7 @@ I'm always open to collaborating on interesting projects!  🚀
 
 <div align="center">
 
-If you find my work helpful or interesting: 
+If you find my work helpful or interesting:  
 
 ⭐ Star my repositories  
 👀 Follow me on GitHub  
@@ -576,15 +484,12 @@ If you find my work helpful or interesting:
 
 ## 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
 
 ```text
-💻 Code Time:          40+ hours/week
+💻 Code Time:         40+ hours/week
 🎯 Focus Areas:      MERN Stack, AI/ML, Open Source
-🔥 Streak:          Building every day! 
+🔥 Streak:           Building every day!  
 ☕ Coffee Consumed:  Infinite ∞
 ```
 
@@ -623,6 +528,6 @@ If you find my work helpful or interesting:
 
 ⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️
 
-**Last Updated:** December 2025 | **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=flat)
+**Last Updated:** January 2026 | **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=flat)
 
 </div>
