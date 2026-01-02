@@ -1,12 +1,12 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi! +%F0%9F%91%8B+Welcome+to+my+GitHub! "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi!  +%F0%9F%91%8B+Welcome+to+my+GitHub!  "/>
 </p>
 
 <!-- Name and Roles -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️"
+    src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️"
     alt="Typing Animation"
   />
 </p>
@@ -19,7 +19,7 @@
   <a href="https://github.com/amritanshu2005">GitHub Profile</a> •
   <a href="https://linkedin.com/in/amritanshu-kumar-825765328">LinkedIn</a> •
   <a href="mailto:amritanshuchaudhary60@gmail.com">Email</a> •
-  <a href="https://amritanshuportfolio56.netlify.app/">Portfolio</a>
+  <a href="https://amritanshuportfolio56.netlify. app/">Portfolio</a>
 </p>
 
 <!-- Profile Views and Badges -->
@@ -51,23 +51,17 @@
 <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
----
-
 ### 🏗️ Backend Development
-**Node.js, Express.js**
+**Node. js, Express.js**
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
----
 
 ### 🗄️ Databases
 **MongoDB, Firebase**
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
-
----
 
 ### 🧠 AI / Machine Learning
 **Python, TensorFlow, PyTorch, NumPy, Pandas**
@@ -76,8 +70,6 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-
----
 
 ### ⚙️ Developer Tools & Others
 **Git, GitHub, VS Code, Postman, NPM, Java, C++**
@@ -90,77 +82,29 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&title=All" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut&theme=radical&hide_border=true" width="49%"/>
 </p>
 
 ---
 
-## 📈 Advanced GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel. app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=donut&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=amritanshu2005&theme=radical" width="100%" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=amritanshu2005&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2005&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards. vercel.app/api/cards/stats?username=amritanshu2005&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/productive-time?username=amritanshu2005&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub+Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&row=2&column=6" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=amritanshu2005&theme=onestar&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&row=1&column=7" width="100%" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph & Heatmap
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=react-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=amritanshu2005&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -190,11 +134,10 @@
 
 ---
 
-## 📈 Contribution Activity Overview
+## 📈 Contribution Stats
 
 <div align="center">
 
-### 🎯 Contribution Stats
 | Metric | Count |
 |: ------:|:-----:|
 | 📝 **Total PRs** | 7+ |
@@ -223,7 +166,7 @@
 <summary><b>📚 Documentation & Guides</b></summary>
 
 - 📖 **AlgoFi**: Created comprehensive CONTRIBUTION_GUIDE and QUICK_START guide
-- 🔧 **AlgoFi**: Added backend and frontend `.env. example` files for easier setup
+- 🔧 **AlgoFi**:  Added backend and frontend `.env. example` files for easier setup
 - ✍️ Multiple README improvements across various projects
 
 </details>
@@ -285,27 +228,6 @@ console.log("Always learning, always building!  🚀");
 
 ---
 
-## 📊 Detailed Contribution Timeline
-
-<div align="center">
-
-### 📅 December 2025
-| Date | Activity | Type | Status |
-|------|----------|------|--------|
-| Dec 27 | Issue Templates - AlgoFi | 📋 PR | ✅ Merged |
-| Dec 25 | Contribution Guide - AlgoFi | 📚 PR | ✅ Merged |
-| Dec 20 | Git Gang Contributor | 🤝 PR | ✅ Merged |
-| Dec 18 | README Formatting | 📝 PR | 🔄 Open |
-
-### 📅 November 2025
-| Date | Activity | Type | Status |
-|------|----------|------|--------|
-| Oct 30 | Homestays Page - RuRal | 🎨 PR | 🔄 Under Review |
-
-</div>
-
----
-
 ## 🏆 Achievements & Milestones
 
 <div align="center">
@@ -331,12 +253,12 @@ console.log("Always learning, always building!  🚀");
 <summary><b>🎨 Frontend Development</b></summary>
 
 ```yaml
-Core:   
+Core: 
   - HTML5, CSS3, JavaScript (ES6+)
   - React.js, Redux, Context API
   - Responsive Design & Mobile-First Approach
   
-Styling: 
+Styling:
   - Tailwind CSS, Bootstrap
   - CSS Animations & Transitions
   - GSAP for Advanced Animations
@@ -385,7 +307,7 @@ Applications:
   - Neural Networks
   - Natural Language Processing (Basic)
   
-Tools: 
+Tools:
   - Jupyter Notebooks
   - Google Colab
   - scikit-learn
@@ -403,15 +325,11 @@ Tools:
 - 🎵 Music & Games = Perfect combo  
 - ☕ Coffee-powered coder  
 - 🌙 Night owl - Best code at 2 AM!  🌜  
-- 🐛 Debug with console.log() and proud!  😄  
+- 🐛 Debug with console.log() and proud! 😄  
 
 ---
 
 ## 💬 Quote of the Day
-
-<blockquote align="center">
-  "Code is like humor. When you have to explain it, it's bad." — Cory House
-</blockquote>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -423,14 +341,14 @@ Tools:
 
 <div align="center">
 
-📧 Email: **amritanshuchaudhary60@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/amritanshu-kumar-825765328**  
-🌐 Portfolio: **https://amritanshuportfolio56.netlify. app/**  
-🖥️ GitHub: **https://github.com/amritanshu2005**  
+📧 **Email:** amritanshuchaudhary60@gmail.com  
+🔗 **LinkedIn:** [Amritanshu Kumar](https://linkedin.com/in/amritanshu-kumar-825765328)  
+🌐 **Portfolio:** [amritanshuportfolio56.netlify. app](https://amritanshuportfolio56.netlify. app/)  
+🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)  
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail. com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-kumar-825765328)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://amritanshuportfolio56.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshu2005)
@@ -439,13 +357,13 @@ Tools:
 
 ---
 
-## 🤝 Let's Collaborate!  
+## 🤝 Let's Collaborate! 
 
 <div align="center">
 
 I'm always open to collaborating on interesting projects! 🚀
 
-### Looking for:  
+### Looking for:
 - 💼 **Open Source Projects** to contribute
 - 🌟 **Exciting Collaborations** in Web Dev & AI/ML
 - 📚 **Mentorship Opportunities** to learn and grow
@@ -465,7 +383,7 @@ I'm always open to collaborating on interesting projects! 🚀
 
 <div align="center">
 
-If you find my work helpful or interesting:  
+If you find my work helpful or interesting: 
 
 ⭐ Star my repositories  
 👀 Follow me on GitHub  
@@ -477,21 +395,6 @@ If you find my work helpful or interesting:
 <a href="https://github.com/amritanshu2005">
   <img src="https://img.shields.io/badge/Follow%20%40amritanshu2005-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-
-```text
-💻 Code Time:         40+ hours/week
-🎯 Focus Areas:      MERN Stack, AI/ML, Open Source
-🔥 Streak:           Building every day!  
-☕ Coffee Consumed:  Infinite ∞
-```
 
 </div>
 
@@ -528,6 +431,6 @@ If you find my work helpful or interesting:
 
 ⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️
 
-**Last Updated:** January 2026 | **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=flat)
+**Last Updated:** January 2026 | ![Visitor Count](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=flat)
 
 </div>
