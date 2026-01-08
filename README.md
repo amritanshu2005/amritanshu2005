@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritanshu2005&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/amritanshu2005?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=amritanshu2005&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/amritanshu2005?label=Followers&style=social"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=flat"/>
 </p>
 
 ---
@@ -30,7 +30,6 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -46,7 +45,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🏗️ Backend Development
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
@@ -56,7 +54,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
@@ -66,7 +63,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧠 AI / Machine Learning
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
@@ -82,7 +78,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ⚙️ Developer Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
@@ -148,11 +143,44 @@
 
 ---
 
+## 💼 My Recent Contributions & Pull Requests
+
+### ✅ Merged Pull Requests
+
+| Repository | PR Title | Description | Status |
+|------------|----------|-------------|--------|
+| denshaw-09/AlgoFi | #21 - Add issue templates | Added individual issue templates | ✅ Merged |
+| denshaw-09/AlgoFi | #20 - Contribution guides | Added contribution guide | ✅ Merged |
+| amritanshu2005/git-gang | #1 - Fix typo | Fixed typo | ✅ Merged |
+| SashankBhamidi/git-gang | #353 - Add contributor | Added name | ✅ Merged |
+
+### 🔄 Open Pull Requests
+
+| Repository | PR Title | Description | Status |
+|------------|----------|-------------|--------|
+| Nayanika1402/RuRal-ReTreats | #578 - Improve homestays page | UI improvements | 🔄 Under Review |
+| amritanshu2005/github-readme-quotes | #1 - Fix README formatting | Formatting | 🔄 Open |
+| amritanshu2005/first-contributions | #1 - Add contributor | Added name | 🔄 Open |
+
+---
+
+## 📊 Quick Stats Overview
+
+| Metric | Count |
+|------|------|
+| Total PRs | 7+ |
+| Merged PRs | 4 |
+| Open PRs | 3 |
+| Repositories | 6+ |
+| Issues Created | 5+ |
+| Projects Maintained | 3 |
+
+---
+
 <div align="center">
 
-### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
-
-⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️  
+### 🌟 Thanks for visiting! Let’s build something amazing together! 🚀  
+⭐️ From **amritanshu2005** with ❤️  
 **Last Updated:** January 2026
 
 </div>
