@@ -1,7 +1,19 @@
-# Hi 👋, I'm Amritanshu Kumar
-MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor 🌐
+<h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
+<h3 align="center">MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor 🌐</h3>
 
-[GitHub Profile](https://github.com/amritanshu2005) • [LinkedIn](https://linkedin.com/in/amritanshu-kumar-825765328) • [Email](mailto:amritanshuchaudhary60@gmail.com) • [Portfolio](https://amritanshuportfolio56.netlify.app/)
+<p align="center">
+  <a href="https://github.com/amritanshu2005">GitHub Profile</a> •
+  <a href="https://linkedin.com/in/amritanshu-kumar-825765328">LinkedIn</a> •
+  <a href="mailto:amritanshuchaudhary60@gmail.com">Email</a> •
+  <a href="https://amritanshuportfolio56.netlify.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritanshu2005&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/amritanshu2005?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=flat" />
+</p>
 
 ---
 
@@ -11,7 +23,7 @@ MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor �
 🤖 AI & ML Enthusiast (Python, TensorFlow, PyTorch, NumPy, Pandas)  
 🎨 Frontend Animator using GSAP  
 🌍 Open Source Contributor  
-✨ Exploring new technologies & building innovative products
+✨ Exploring new technologies & building innovative products  
 
 ---
 
@@ -19,24 +31,49 @@ MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor �
 
 ### 🎨 Frontend Development
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+</p>
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 🏗️ Backend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+</p>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+</p>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧠 AI / Machine Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -45,6 +82,14 @@ MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor �
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ⚙️ Developer Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+</p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,255 +103,56 @@ MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor �
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=tokyonight&langs_count=8" width="48%"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amritanshu2005&theme=tokyonight" width="60%"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=tokyonight&no-frame=false&margin-w=4&row=2&column=4"/>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-## 📊 Detailed GitHub Analytics
+## 📊 Detailed Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=for-the-badge)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritanshu2005&theme=tokyonight" width="100%"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritanshu2005&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2005&theme=tokyonight" width="48%"/>
+</div>
 
-## 💼 My Recent Contributions & Pull Requests
-
-### ✅ Merged Pull Requests
-
-| Repository | PR Title | Description | Status |
-|------------|----------|-------------|--------|
-| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#21 - Add issue templates](https://github.com/denshaw-09/AlgoFi/pull/21) | Added individual issue templates for bug, feature, enhancement categories | ✅ Merged |
-| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#20 - Contribution guides](https://github.com/denshaw-09/AlgoFi/pull/20) | Added comprehensive CONTRIBUTION_GUIDE and environment setup | ✅ Merged |
-| [amritanshu2005/git-gang](https://github.com/amritanshu2005/git-gang) | [#1 - Fix typo](https://github.com/amritanshu2005/git-gang/pull/1) | Fixed typo in contributors message | ✅ Merged |
-| [SashankBhamidi/git-gang](https://github.com/SashankBhamidi/git-gang) | [#353 - Add contributor](https://github.com/SashankBhamidi/git-gang/pull/353) | Added my name to contributors list | ✅ Merged |
-
-### 🔄 Open Pull Requests
-
-| Repository | PR Title | Description | Status |
-|------------|----------|-------------|--------|
-| [Nayanika1402/RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) | [#578 - Improve homestays page](https://github.com/Nayanika1402/RuRal-ReTreats/pull/578) | Enhanced layout and styling of homestays page | 🔄 Under Review |
-| [amritanshu2005/github-readme-quotes](https://github.com/amritanshu2005/github-readme-quotes) | [#1 - Fix README formatting](https://github.com/amritanshu2005/github-readme-quotes/pull/1) | Minor formatting improvements for better readability | 🔄 Open |
-| [amritanshu2005/first-contributions](https://github.com/amritanshu2005/first-contributions) | [#1 - Add to contributors](https://github.com/amritanshu2005/first-contributions/pull/1) | Added name to contributors list | 🔄 Open |
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritanshu2005&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritanshu2005&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</div>
 
 ---
 
-## 📊 Quick Stats Overview
+<div align="center">
 
-| 📊 Metric | 🔢 Count |
-|:------:|:-----:|
-| 📝 **Total PRs** | 7+ |
-| ✅ **Merged PRs** | 4 |
-| 🔄 **Open PRs** | 3 |
-| 🌟 **Repositories Contributed** | 6+ |
-| 💬 **Issues Created** | 5+ |
-| 🏆 **Projects Maintained** | 3 |
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
 
----
-
-## 🌟 Contribution Highlights
-
-🎨 **Frontend & UI Improvements**
-- 🏠 **RuRal-ReTreats**: Enhanced homestays page layout with improved styling and responsiveness
-- 🎯 **AlgoFi**: Improved project structure and added comprehensive documentation
-- 📱 Focused on creating responsive and user-friendly interfaces
-
-📚 **Documentation & Guides**
-- 📖 **AlgoFi**: Created comprehensive CONTRIBUTION_GUIDE and QUICK_START guide
-- 🔧 **AlgoFi**: Added backend and frontend `.env.example` files for easier setup
-- ✍️ Multiple README improvements across various projects
-
-🛠️ **Project Structure & Templates**
-- 📋 **AlgoFi**: Added individual issue templates (bug, feature, enhancement, backend)
-- 🔨 Improved project onboarding experience for new contributors
-- 🎯 Standardized issue and PR templates for better collaboration
-
-🌐 **Open Source Contributions**
-- 🤝 **Git Gang**: Active contributor to open-source learning projects
-- 🌍 **First Contributions**: Helping newcomers start their open-source journey
-- 💡 Participating in various open-source initiatives
-
----
-
-## 🎯 Current Projects & Activities
-
-```javascript
-const amritanshuKumar = {
-  learning: [
-    "Advanced React Patterns & Hooks",
-    "System Design & Architecture",
-    "Cloud Technologies (AWS, Azure)",
-    "Advanced AI/ML Algorithms"
-  ],
-  building: [
-    "Full-stack MERN Applications",
-    "AI-powered Web Tools",
-    "Interactive Frontend Animations",
-    "Open Source Projects"
-  ],
-  contributing: [
-    "AlgoFi - Algorithm Learning Platform",
-    "RuRal-ReTreats - Travel & Tourism",
-    "Git Gang - Open Source Learning",
-    "Various Documentation Projects"
-  ],
-  goals: {
-    shortTerm: "Contribute to 10+ open source projects",
-    midTerm: "Build impactful AI/ML solutions",
-    longTerm: "Become a full-stack architect & mentor"
-  }
-};
-
-console.log("Always learning, always building! 🚀");
-```
-
----
-
-## 🏆 Achievements & Milestones
-
-| 🎯 Achievement | ✅ Status |
-|-------------|--------|
-| 🎯 First Open Source Contribution | ✅ Completed |
-| 🌟 10+ GitHub Stars | ✅ Achieved |
-| 🤝 5+ Projects Contributed | ✅ Achieved |
-| 📝 5+ Pull Requests Merged | ✅ Achieved |
-| 🚀 Created Personal Portfolio | ✅ Completed |
-| 💻 100+ Contributions | 🔄 In Progress |
-| ⭐ 50+ GitHub Stars | 🎯 Target |
-| 🌍 10+ Open Source Projects | 🎯 Target |
-
----
-
-## 💡 Skills & Expertise
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-### 🏗️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-## 🌈 Fun Facts
-
-🤖 Always learning new tech skills  
-🧠 Obsessed with AI & Web Innovation  
-🎯 Believe in clean & efficient code  
-🎵 Music & Games = Perfect combo  
-☕ Coffee-powered coder  
-🌙 Night owl - Best code at 2 AM! 🌜  
-🐛 Debug with console.log() and proud! 😄
-
----
-
-## 📩 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-kumar-825765328)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amritanshuportfolio56.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshu2005)
-
-📧 **Email:** amritanshuchaudhary60@gmail.com  
-🔗 **LinkedIn:** [Amritanshu Kumar](https://linkedin.com/in/amritanshu-kumar-825765328)  
-🌐 **Portfolio:** [amritanshuportfolio56.netlify.app](https://amritanshuportfolio56.netlify.app/)  
-🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)
-
----
-
-## 🤝 Let's Collaborate!
-
-### I'm always open to collaborating on interesting projects!
-
-🚀 **Looking for:**
-- 💼 Open Source Projects to contribute
-- 🌟 Exciting Collaborations in Web Dev & AI/ML
-- 📚 Mentorship Opportunities to learn and grow
-- 🎯 Innovative Ideas to build together
-
-**Feel free to reach out if you want to:**
-- 🤝 Collaborate on a project
-- 💡 Discuss tech and innovations
-- 🐛 Report bugs or suggest features
-- ⭐ Just say hi!
-
----
-
-## 💖 Support My Work
-
-**If you find my work helpful or interesting:**
-
-⭐ Star my repositories  
-👀 Follow me on GitHub  
-🤝 Contribute to my projects  
-💬 Share feedback and suggestions
-
-[![GitHub Followers](https://img.shields.io/github/followers/amritanshu2005?label=Follow%20%40amritanshu2005&style=social)](https://github.com/amritanshu2005)
-[![GitHub Stars](https://img.shields.io/github/stars/amritanshu2005?label=Total%20Stars&style=social)](https://github.com/amritanshu2005)
-
----
-
-## 🎓 Learning Journey
-
-### 📚 Currently Learning
-```
-✅ Advanced React Patterns & Hooks
-✅ System Design & Architecture
-✅ Advanced AI/ML Algorithms
-✅ Docker & Kubernetes
-```
-
-### 🎯 Next on List
-```
-⏳ Microservices Architecture
-⏳ Cloud Technologies (AWS, Azure)
-⏳ GraphQL & Modern APIs
-```
-
----
-
-### 🌟 Let's build something amazing together! 🚀
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge)
-
-⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️
-
+⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️  
 **Last Updated:** January 2026
+
+</div>
