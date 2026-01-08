@@ -10,7 +10,7 @@
 
 <!-- Profile Views and Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/? username=amritanshu2005&style=flat-square&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=amritanshu2005" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/amritanshu2005?style=social" alt="Followers"/>
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat&logo=github" alt="PRs Welcome"/>
 </p>
@@ -73,7 +73,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,java,cpp" alt="Tools"/>
 </p>
 
-![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -309,7 +309,7 @@ Tools:
 
 📧 **Email:** amritanshuchaudhary60@gmail.com  
 🔗 **LinkedIn:** [Amritanshu Kumar](https://linkedin.com/in/amritanshu-kumar-825765328)  
-🌐 **Portfolio:** [amritanshuportfolio56.netlify. app](https://amritanshuportfolio56.netlify. app/)  
+🌐 **Portfolio:** [amritanshuportfolio56.netlify. app](https://amritanshuportfolio56.netlify.app)  
 🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)  
 
 <br>
