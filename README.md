@@ -1,16 +1,5 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=900&color=19FFE5&width=700&size=36&center=true&lines=Hi! +👋+Welcome+to+my+GitHub!" alt="Typing SVG"/>
-</p>
-
-<!-- Name and Roles -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=1800&pause=900&color=FF4F8B&center=true&width=800&lines=I+am+Amritanshu+Kumar;MERN+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Coder+❤️" alt="Typing Animation"/>
-</p>
-
-<h1 align="center">
-  <img src="https://img.shields.io/badge/👋%20I%20am%20Amritanshu%20Kumar-ec4899?style=for-the-badge&labelColor=363636&color=6700f7"/>
-</h1>
+<h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
+<h3 align="center">MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor 🌐</h3>
 
 <p align="center">
   <a href="https://github.com/amritanshu2005">GitHub Profile</a> •
@@ -23,8 +12,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amritanshu2005&style=flat-square&color=brightgreen" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/amritanshu2005?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen. svg? style=flat&logo=github" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red? style=flat" alt="Open Source Love"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen. svg?style=flat&logo=github" alt="PRs Welcome"/>
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red? style=flat" alt="Open Source Love"/>
 </p>
 
 ---
@@ -42,46 +31,53 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
-**HTML, CSS, JavaScript, React.js, Tailwind CSS, GSAP**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills"/>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 🏗️ Backend Development
-**Node.js, Express. js**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D? style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
-**MongoDB, Firebase**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database Skills"/>
+</p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 🧠 AI / Machine Learning
-**Python, TensorFlow, PyTorch, NumPy, Pandas**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML Skills"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB? style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=whitea
 
-### ⚙️ Developer Tools & Others
-**Git, GitHub, VS Code, Postman, NPM, Java, C++**
+### ⚙️ Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,java,cpp" alt="Tools"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -93,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -157,7 +153,7 @@
 <summary><b>📚 Documentation & Guides</b></summary>
 
 - 📖 **AlgoFi**: Created comprehensive CONTRIBUTION_GUIDE and QUICK_START guide
-- 🔧 **AlgoFi**: Added backend and frontend `.env. example` files for easier setup
+- 🔧 **AlgoFi**: Added backend and frontend `.env.example` files for easier setup
 - ✍️ Multiple README improvements across various projects
 
 </details>
@@ -209,7 +205,7 @@ const currentActivities = {
   
   goals: {
     shortTerm: "Contribute to 10+ open source projects",
-    midTerm:  "Build impactful AI/ML solutions",
+    midTerm: "Build impactful AI/ML solutions",
     longTerm: "Become a full-stack architect & mentor"
   }
 };
@@ -221,8 +217,6 @@ console.log("Always learning, always building!  🚀");
 
 ## 🏆 Achievements & Milestones
 
-<div align="center">
-
 | Achievement | Status |
 |-------------|--------|
 | 🎯 First Open Source Contribution | ✅ Completed |
@@ -233,8 +227,6 @@ console.log("Always learning, always building!  🚀");
 | 💻 100+ Contributions | 🔄 In Progress |
 | ⭐ 50+ GitHub Stars | 🎯 Target |
 | 🌍 10+ Open Source Projects | 🎯 Target |
-
-</div>
 
 ---
 
@@ -249,12 +241,12 @@ Core:
   - React.js, Redux, Context API
   - Responsive Design & Mobile-First Approach
   
-Styling:  
+Styling: 
   - Tailwind CSS, Bootstrap
   - CSS Animations & Transitions
   - GSAP for Advanced Animations
   
-Tools:  
+Tools:
   - Webpack, Vite, npm/yarn
   - Chrome DevTools, React DevTools
 ```
@@ -320,21 +312,13 @@ Tools:
 
 ---
 
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
 ## 📩 Contact Me
 
 <div align="center">
 
 📧 **Email:** amritanshuchaudhary60@gmail.com  
 🔗 **LinkedIn:** [Amritanshu Kumar](https://linkedin.com/in/amritanshu-kumar-825765328)  
-🌐 **Portfolio:** [amritanshuportfolio56.netlify.app](https://amritanshuportfolio56.netlify.app/)  
+🌐 **Portfolio:** [amritanshuportfolio56.netlify. app](https://amritanshuportfolio56.netlify. app/)  
 🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)  
 
 <br>
@@ -348,11 +332,11 @@ Tools:
 
 ---
 
-## 🤝 Let's Collaborate!  
+## 🤝 Let's Collaborate!
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects!  🚀
+I'm always open to collaborating on interesting projects! 🚀
 
 ### Looking for: 
 - 💼 **Open Source Projects** to contribute
@@ -374,7 +358,7 @@ I'm always open to collaborating on interesting projects!  🚀
 
 <div align="center">
 
-If you find my work helpful or interesting:  
+If you find my work helpful or interesting: 
 
 ⭐ Star my repositories  
 👀 Follow me on GitHub  
@@ -393,13 +377,11 @@ If you find my work helpful or interesting:
 
 ## 🎓 Learning Journey
 
-<div align="center">
-
 ### Currently Learning 📚
-![Advanced React](https://img.shields.io/badge/-Advanced_React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![System Design](https://img.shields.io/badge/-System_Design-000000?style=flat-square&logo=system&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-0089D6?style=flat-square&logo=icloud&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- Advanced React Patterns & Hooks
+- System Design & Architecture
+- Cloud Technologies (AWS, Azure)
+- Advanced AI/ML Algorithms
 
 ### Next on List 🎯
 - Docker & Kubernetes
@@ -407,8 +389,6 @@ If you find my work helpful or interesting:
 - GraphQL & Apollo
 - TypeScript Advanced Patterns
 - AWS Certification
-
-</div>
 
 ---
 
@@ -420,6 +400,8 @@ If you find my work helpful or interesting:
 
 ⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️
 
-**Last Updated:** January 2026 | ![Visitor Count](https://komarev.com/ghpvc/? username=amritanshu2005&color=blueviolet&style=flat)
+**Last Updated:** January 2026
+
+![Visitor Count](https://komarev.com/ghpvc/? username=amritanshu2005&color=blueviolet&style=flat)
 
 </div>
