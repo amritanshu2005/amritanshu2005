@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
-<h3 align="center">MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor 🌐</h3>
+# Hi 👋, I'm Amritanshu Kumar
+MERN Stack Developer 🚀 | AI & ML Enthusiast 🤖 | Open Source Contributor 🌐
 
-<p align="center">
-  <a href="https://github.com/amritanshu2005">GitHub Profile</a> •
-  <a href="https://linkedin.com/in/amritanshu-kumar-825765328">LinkedIn</a> •
-  <a href="mailto:amritanshuchaudhary60@gmail.com">Email</a> •
-  <a href="https://amritanshuportfolio56.netlify.app/">Portfolio</a>
-</p>
-
-<!-- Profile Views and Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/amritanshu2005? label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen? style=flat&logo=github" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=flat" alt="Open Source"/>
-</p>
+[GitHub Profile](https://github.com/amritanshu2005) • [LinkedIn](https://linkedin.com/in/amritanshu-kumar-825765328) • [Email](mailto:amritanshuchaudhary60@gmail.com) • [Portfolio](https://amritanshuportfolio56.netlify.app/)
 
 ---
 
@@ -23,7 +11,7 @@
 🤖 AI & ML Enthusiast (Python, TensorFlow, PyTorch, NumPy, Pandas)  
 🎨 Frontend Animator using GSAP  
 🌍 Open Source Contributor  
-✨ Exploring new technologies & building innovative products  
+✨ Exploring new technologies & building innovative products
 
 ---
 
@@ -35,12 +23,12 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC? style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 🏗️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
@@ -60,24 +48,39 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396? style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=amritanshu2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats. herokuapp.com? user=amritanshu2005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amritanshu2005&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2005&theme=react-dark&hide_border=true)
+
+---
+
+## 📊 Detailed GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=amritanshu2005&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -102,12 +105,10 @@
 
 ---
 
-## 📈 Contribution Stats
+## 📊 Quick Stats Overview
 
-<div align="center">
-
-| Metric | Count |
-|: ------:|:-----:|
+| 📊 Metric | 🔢 Count |
+|:------:|:-----:|
 | 📝 **Total PRs** | 7+ |
 | ✅ **Merged PRs** | 4 |
 | 🔄 **Open PRs** | 3 |
@@ -115,75 +116,54 @@
 | 💬 **Issues Created** | 5+ |
 | 🏆 **Projects Maintained** | 3 |
 
-</div>
-
 ---
 
 ## 🌟 Contribution Highlights
 
-<details>
-<summary><b>🎨 Frontend & UI Improvements</b></summary>
-
-- 🏠 **RuRal-ReTreats**:  Enhanced homestays page layout with improved styling and responsiveness
+🎨 **Frontend & UI Improvements**
+- 🏠 **RuRal-ReTreats**: Enhanced homestays page layout with improved styling and responsiveness
 - 🎯 **AlgoFi**: Improved project structure and added comprehensive documentation
 - 📱 Focused on creating responsive and user-friendly interfaces
 
-</details>
-
-<details>
-<summary><b>📚 Documentation & Guides</b></summary>
-
+📚 **Documentation & Guides**
 - 📖 **AlgoFi**: Created comprehensive CONTRIBUTION_GUIDE and QUICK_START guide
 - 🔧 **AlgoFi**: Added backend and frontend `.env.example` files for easier setup
 - ✍️ Multiple README improvements across various projects
 
-</details>
-
-<details>
-<summary><b>🛠️ Project Structure & Templates</b></summary>
-
-- 📋 **AlgoFi**:  Added individual issue templates (bug, feature, enhancement, backend)
+🛠️ **Project Structure & Templates**
+- 📋 **AlgoFi**: Added individual issue templates (bug, feature, enhancement, backend)
 - 🔨 Improved project onboarding experience for new contributors
 - 🎯 Standardized issue and PR templates for better collaboration
 
-</details>
-
-<details>
-<summary><b>🌐 Open Source Contributions</b></summary>
-
+🌐 **Open Source Contributions**
 - 🤝 **Git Gang**: Active contributor to open-source learning projects
 - 🌍 **First Contributions**: Helping newcomers start their open-source journey
 - 💡 Participating in various open-source initiatives
-
-</details>
 
 ---
 
 ## 🎯 Current Projects & Activities
 
 ```javascript
-const currentActivities = {
+const amritanshuKumar = {
   learning: [
     "Advanced React Patterns & Hooks",
     "System Design & Architecture",
     "Cloud Technologies (AWS, Azure)",
     "Advanced AI/ML Algorithms"
   ],
-  
   building: [
     "Full-stack MERN Applications",
     "AI-powered Web Tools",
     "Interactive Frontend Animations",
     "Open Source Projects"
   ],
-  
   contributing: [
     "AlgoFi - Algorithm Learning Platform",
     "RuRal-ReTreats - Travel & Tourism",
     "Git Gang - Open Source Learning",
     "Various Documentation Projects"
   ],
-  
   goals: {
     shortTerm: "Contribute to 10+ open source projects",
     midTerm: "Build impactful AI/ML solutions",
@@ -191,14 +171,14 @@ const currentActivities = {
   }
 };
 
-console.log("Always learning, always building!  🚀");
+console.log("Always learning, always building! 🚀");
 ```
 
 ---
 
 ## 🏆 Achievements & Milestones
 
-| Achievement | Status |
+| 🎯 Achievement | ✅ Status |
 |-------------|--------|
 | 🎯 First Open Source Contribution | ✅ Completed |
 | 🌟 10+ GitHub Stars | ✅ Achieved |
@@ -213,168 +193,120 @@ console.log("Always learning, always building!  🚀");
 
 ## 💡 Skills & Expertise
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-```yaml
-Core: 
-  - HTML5, CSS3, JavaScript (ES6+)
-  - React.js, Redux, Context API
-  - Responsive Design & Mobile-First Approach
-  
-Styling:
-  - Tailwind CSS, Bootstrap
-  - CSS Animations & Transitions
-  - GSAP for Advanced Animations
-  
-Tools:
-  - Webpack, Vite, npm/yarn
-  - Chrome DevTools, React DevTools
-```
+### 🏗️ Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</details>
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<details>
-<summary><b>🏗️ Backend Development</b></summary>
-
-```yaml
-Runtime & Frameworks:
-  - Node.js, Express.js
-  - RESTful API Design
-  - Authentication & Authorization (JWT, OAuth)
-  
-Databases:
-  - MongoDB, Mongoose ODM
-  - Firebase Realtime Database
-  - Database Schema Design
-  
-Security:
-  - Input Validation & Sanitization
-  - CORS, Helmet. js
-  - Environment Variables Management
-```
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-
-```yaml
-Languages & Libraries:
-  - Python (NumPy, Pandas, Matplotlib)
-  - TensorFlow, Keras
-  - PyTorch
-  
-Applications:
-  - Data Analysis & Visualization
-  - Machine Learning Models
-  - Neural Networks
-  - Natural Language Processing (Basic)
-  
-Tools:
-  - Jupyter Notebooks
-  - Google Colab
-  - scikit-learn
-```
-
-</details>
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
 ## 🌈 Fun Facts
 
-- 🤖 Always learning new tech skills  
-- 🧠 Obsessed with AI & Web Innovation  
-- 🎯 Believe in clean & efficient code  
-- 🎵 Music & Games = Perfect combo  
-- ☕ Coffee-powered coder  
-- 🌙 Night owl - Best code at 2 AM!  🌜  
-- 🐛 Debug with console.log() and proud!  😄  
+🤖 Always learning new tech skills  
+🧠 Obsessed with AI & Web Innovation  
+🎯 Believe in clean & efficient code  
+🎵 Music & Games = Perfect combo  
+☕ Coffee-powered coder  
+🌙 Night owl - Best code at 2 AM! 🌜  
+🐛 Debug with console.log() and proud! 😄
 
 ---
 
-## 📩 Contact Me
+## 📩 Connect With Me
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-kumar-825765328)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amritanshuportfolio56.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshu2005)
 
 📧 **Email:** amritanshuchaudhary60@gmail.com  
 🔗 **LinkedIn:** [Amritanshu Kumar](https://linkedin.com/in/amritanshu-kumar-825765328)  
 🌐 **Portfolio:** [amritanshuportfolio56.netlify.app](https://amritanshuportfolio56.netlify.app/)  
-🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)  
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritanshuchaudhary60@gmail. com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-kumar-825765328)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://amritanshuportfolio56.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshu2005)
-
-</div>
+🖥️ **GitHub:** [@amritanshu2005](https://github.com/amritanshu2005)
 
 ---
 
-## 🤝 Let's Collaborate! 
+## 🤝 Let's Collaborate!
 
-<div align="center">
+### I'm always open to collaborating on interesting projects!
 
-I'm always open to collaborating on interesting projects! 🚀
-
-### Looking for:
-- 💼 **Open Source Projects** to contribute
-- 🌟 **Exciting Collaborations** in Web Dev & AI/ML
-- 📚 **Mentorship Opportunities** to learn and grow
-- 🎯 **Innovative Ideas** to build together
+🚀 **Looking for:**
+- 💼 Open Source Projects to contribute
+- 🌟 Exciting Collaborations in Web Dev & AI/ML
+- 📚 Mentorship Opportunities to learn and grow
+- 🎯 Innovative Ideas to build together
 
 **Feel free to reach out if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Discuss tech and innovations
 - 🐛 Report bugs or suggest features
-- ⭐ Just say hi! 
-
-</div>
+- ⭐ Just say hi!
 
 ---
 
 ## 💖 Support My Work
 
-<div align="center">
-
-If you find my work helpful or interesting: 
+**If you find my work helpful or interesting:**
 
 ⭐ Star my repositories  
 👀 Follow me on GitHub  
 🤝 Contribute to my projects  
-💬 Share feedback and suggestions  
+💬 Share feedback and suggestions
 
-<br>
-
-[![Follow on GitHub](https://img.shields.io/github/followers/amritanshu2005?label=Follow&style=social)](https://github.com/amritanshu2005)
-
-</div>
+[![GitHub Followers](https://img.shields.io/github/followers/amritanshu2005?label=Follow%20%40amritanshu2005&style=social)](https://github.com/amritanshu2005)
+[![GitHub Stars](https://img.shields.io/github/stars/amritanshu2005?label=Total%20Stars&style=social)](https://github.com/amritanshu2005)
 
 ---
 
 ## 🎓 Learning Journey
 
-### Currently Learning 📚
-- Advanced React Patterns & Hooks
-- System Design & Architecture
-- Advanced AI/ML Algorithms
+### 📚 Currently Learning
+```
+✅ Advanced React Patterns & Hooks
+✅ System Design & Architecture
+✅ Advanced AI/ML Algorithms
+✅ Docker & Kubernetes
+```
 
-### Next on List 🎯
-- Docker & Kubernetes
-- Microservices Architecture
+### 🎯 Next on List
+```
+⏳ Microservices Architecture
+⏳ Cloud Technologies (AWS, Azure)
+⏳ GraphQL & Modern APIs
+```
 
 ---
 
-<div align="center">
+### 🌟 Let's build something amazing together! 🚀
 
-### 🌟 Thanks for visiting!  Let's build something amazing together! 🚀
-
----
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge)
 
 ⭐️ From [amritanshu2005](https://github.com/amritanshu2005) with ❤️
 
 **Last Updated:** January 2026
-
-</div>
