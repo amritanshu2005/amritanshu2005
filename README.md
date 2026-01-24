@@ -118,7 +118,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=tokyonight&no-frame=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=amritanshu2005&theme=tokyonight&v=1" />
 </div>
 
 ---
