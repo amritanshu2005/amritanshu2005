@@ -145,6 +145,7 @@
 
 ### ✅ Merged Pull Requests
 
+<!-- MERGED-PRS:START -->
 | Repository | PR Title | Description | Status |
 |------------|----------|-------------|--------|
 | [sayeeg-11/OpenSource-Compass](https://github.com/sayeeg-11/OpenSource-Compass) | [#460 - Expand chatbot knowledge base](https://github.com/sayeeg-11/OpenSource-Compass/pull/460) | Enhanced chatbot with contributor-related Q&A | ✅ Merged |
@@ -154,6 +155,7 @@
 | [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#20 - Contribution guides](https://github.com/denshaw-09/AlgoFi/pull/20) | Added comprehensive CONTRIBUTION_GUIDE and environment setup | ✅ Merged |
 | [amritanshu2005/git-gang](https://github.com/amritanshu2005/git-gang) | [#1 - Fix typo](https://github.com/amritanshu2005/git-gang/pull/1) | Fixed typo in contributors message | ✅ Merged |
 | [SashankBhamidi/git-gang](https://github.com/SashankBhamidi/git-gang) | [#353 - Add contributor](https://github.com/SashankBhamidi/git-gang/pull/353) | Added my name to contributors list | ✅ Merged |
+<!-- MERGED-PRS:END -->
 
 ### 🔄 Open Pull Requests
 

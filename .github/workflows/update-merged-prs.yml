@@ -1,0 +1,159 @@
+name: Update Merged Pull Requests
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-merged-prs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Fetch merged pull requests
+        id: fetch-prs
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            // GraphQL query to fetch merged PRs
+            const query = `
+              query($username: String!, $after: String) {
+                user(login: $username) {
+                  pullRequests(first: 100, states: MERGED, orderBy: {field: UPDATED_AT, direction: DESC}, after: $after) {
+                    nodes {
+                      number
+                      title
+                      url
+                      mergedAt
+                      body
+                      repository {
+                        name
+                        owner {
+                          login
+                        }
+                        url
+                      }
+                    }
+                    pageInfo {
+                      hasNextPage
+                      endCursor
+                    }
+                  }
+                }
+              }
+            `;
+            
+            const username = context.repo.owner;
+            let allPRs = [];
+            let hasNextPage = true;
+            let after = null;
+            
+            // Fetch all merged PRs (paginated)
+            while (hasNextPage && allPRs.length < 100) {
+              const result = await github.graphql(query, {
+                username: username,
+                after: after
+              });
+              
+              allPRs = allPRs.concat(result.user.pullRequests.nodes);
+              hasNextPage = result.user.pullRequests.pageInfo.hasNextPage;
+              after = result.user.pullRequests.pageInfo.endCursor;
+              
+              if (allPRs.length >= 100) {
+                allPRs = allPRs.slice(0, 100);
+                break;
+              }
+            }
+            
+            // Format PRs as markdown table rows
+            let tableContent = '';
+            
+            for (const pr of allPRs) {
+              const repoFullName = `${pr.repository.owner.login}/${pr.repository.name}`;
+              const repoLink = pr.repository.url;
+              const prTitle = pr.title.replace(/\|/g, '\\|'); // Escape pipe characters
+              const prLink = pr.url;
+              
+              // Get description (first 80 characters of body)
+              let description = '';
+              if (pr.body) {
+                description = pr.body
+                  .replace(/\r\n/g, ' ')
+                  .replace(/\n/g, ' ')
+                  .replace(/\|/g, '\\|')
+                  .trim()
+                  .substring(0, 80);
+                if (pr.body.length > 80) {
+                  description += '...';
+                }
+              }
+              
+              // Format merged date
+              const mergedDate = new Date(pr.mergedAt).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+              });
+              
+              tableContent += `| [${repoFullName}](${repoLink}) | [#${pr.number} - ${prTitle}](${prLink}) | ${description} | ${mergedDate} |\n`;
+            }
+            
+            // Read current README
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+            
+            // Define markers
+            const startMarker = '<!-- MERGED-PRS:START -->';
+            const endMarker = '<!-- MERGED-PRS:END -->';
+            
+            // Check if markers exist
+            if (!readme.includes(startMarker) || !readme.includes(endMarker)) {
+              console.log('Markers not found in README.md');
+              return { updated: false };
+            }
+            
+            // Build new content between markers
+            const newContent = `${startMarker}\n| Repository | PR Title | Description | Merged Date |\n|------------|----------|-------------|-------------|\n${tableContent}${endMarker}`;
+            
+            // Replace content between markers
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker) + endMarker.length;
+            const oldContent = readme.substring(startIndex, endIndex);
+            
+            // Check if content has changed
+            if (oldContent === newContent) {
+              console.log('No changes detected');
+              return { updated: false };
+            }
+            
+            // Update README
+            readme = readme.substring(0, startIndex) + newContent + readme.substring(endIndex);
+            fs.writeFileSync(readmePath, readme, 'utf8');
+            
+            console.log(`Updated README with ${allPRs.length} merged PRs`);
+            return { updated: true, count: allPRs.length };
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update merged pull requests [automated]"
+            git push
+            echo "Changes committed and pushed"
+          fi
