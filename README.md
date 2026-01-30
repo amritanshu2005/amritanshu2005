@@ -145,26 +145,25 @@
 
 ### ✅ Merged Pull Requests
 
-<!-- MERGED-PRS:START -->
 | Repository | PR Title | Description | Status |
 |------------|----------|-------------|--------|
-| [sayeeg-11/OpenSource-Compass](https://github.com/sayeeg-11/OpenSource-Compass) | [#460 - Expand chatbot knowledge base](https://github.com/sayeeg-11/OpenSource-Compass/pull/460) | Enhanced chatbot with contributor-related Q&A | ✅ Merged |
-| [Saatvik-GT/xaytheon](https://github.com/Saatvik-GT/xaytheon) | [#355 - Add proper spacing](https://github.com/Saatvik-GT/xaytheon/pull/355) | Fixed spacing between Xaytheon and GitHub Dashboard sections | ✅ Merged |
-| [omroy07/AgriTech](https://github.com/omroy07/AgriTech) | [#1035 - Fix dark/light mode toggle](https://github.com/omroy07/AgriTech/pull/1035) | Fixed dark/light mode toggle icon and text overlapping issue | ✅ Merged |
-| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#21 - Add issue templates](https://github.com/denshaw-09/AlgoFi/pull/21) | Added individual issue templates for bug, feature, enhancement categories | ✅ Merged |
+| [ABHIJEET-0001/AI-Powered-Career-Advice-](https://github.com/ABHIJEET-0001/AI-Powered-Career-Advice-) | [#149 - Get Started functionality](https://github.com/ABHIJEET-0001/AI-Powered-Career-Advice-/pull/149) | Make Get Started open signup and capture preferred career | ✅ Merged (1 day ago) |
+| [omroy07/AgriTech](https://github.com/omroy07/AgriTech) | [#1103 - Fix light/dark mode toggle](https://github.com/omroy07/AgriTech/pull/1103) | Resolve light/dark mode toggle and back button issues in scheme section | ✅ Merged (5 days ago) |
+| [omroy07/AgriTech](https://github.com/omroy07/AgriTech) | [#1070 - Fix text overlap](https://github.com/omroy07/AgriTech/pull/1070) | Prevent text overlap on image and card hover effects | ✅ Merged (6 days ago) |
+| [Renu-code123/ExpenseFlow](https://github.com/Renu-code123/ExpenseFlow) | [#134 - Fix spacing for recurring expenses](https://github.com/Renu-code123/ExpenseFlow/pull/134) | Fixed spacing issues in recurring expenses section | ✅ Merged (6 days ago) |
+| [Saatvik-GT/xaytheon](https://github.com/Saatvik-GT/xaytheon) | [#355 - Add proper spacing](https://github.com/Saatvik-GT/xaytheon/pull/355) | Fixed spacing between Xaytheon and GitHub Dashboard sections | ✅ Merged (7 days ago) |
+| [sayeeg-11/OpenSource-Compass](https://github.com/sayeeg-11/OpenSource-Compass) | [#460 - Expand chatbot knowledge base](https://github.com/sayeeg-11/OpenSource-Compass/pull/460) | Enhanced chatbot with contributor-related Q&A | ✅ Merged (6 days ago) |
+| [omroy07/AgriTech](https://github.com/omroy07/AgriTech) | [#1035 - Fix dark/light mode toggle](https://github.com/omroy07/AgriTech/pull/1035) | Fixed dark/light mode toggle icon and text overlapping issue | ✅ Merged (9 days ago) |
+| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#21 - Add issue templates](https://github.com/denshaw-09/AlgoFi/pull/21) | Added individual issue templates for bug, feature, enhancement categories | ✅ Merged (33 days ago) |
 | [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#20 - Contribution guides](https://github.com/denshaw-09/AlgoFi/pull/20) | Added comprehensive CONTRIBUTION_GUIDE and environment setup | ✅ Merged |
-| [amritanshu2005/git-gang](https://github.com/amritanshu2005/git-gang) | [#1 - Fix typo](https://github.com/amritanshu2005/git-gang/pull/1) | Fixed typo in contributors message | ✅ Merged |
 | [SashankBhamidi/git-gang](https://github.com/SashankBhamidi/git-gang) | [#353 - Add contributor](https://github.com/SashankBhamidi/git-gang/pull/353) | Added my name to contributors list | ✅ Merged |
-<!-- MERGED-PRS:END -->
 
 ### 🔄 Open Pull Requests
 
 | Repository | PR Title | Description | Status |
 |------------|----------|-------------|--------|
-| [Renu-code123/ExpenseFlow](https://github.com/Renu-code123/ExpenseFlow) | [#134 - Fix spacing for recurring expenses](https://github.com/Renu-code123/ExpenseFlow/pull/134) | Fixed spacing issues in recurring expenses section | 🔄 Under Review |
-| [ABHIJEET-0001/AI-Powered-Career-Advice-](https://github.com/ABHIJEET-0001/AI-Powered-Career-Advice-) | [#149 - Get Started functionality](https://github.com/ABHIJEET-0001/AI-Powered-Career-Advice-/pull/149) | Make Get Started open signup and capture preferred career | 🔄 Under Review |
-| [omroy07/AgriTech](https://github.com/omroy07/AgriTech) | [#1070 - Fix text overlap](https://github.com/omroy07/AgriTech/pull/1070) | Prevent text overlap on image and card hover effects | 🔄 Under Review |
-| [RounakMishra06/MannSakha-chatbot-](https://github.com/RounakMishra06/MannSakha-chatbot-) | [#113 - Improve chatbot responses](https://github.com/RounakMishra06/MannSakha-chatbot-/pull/113) | Improved contributor guidance fallback responses | 🔄 Under Review |
+| [Sahilll94/Travel-Book-Backend](https://github.com/Sahilll94/Travel-Book-Backend) | [#1 - Expand chatbot knowledge base](https://github.com/Sahilll94/Travel-Book-Backend/pull/1) | JSON loader for easy chatbot updates | 🔄 Under Review (6 days old) |
+| [RounakMishra06/MannSakha-chatbot-](https://github.com/RounakMishra06/MannSakha-chatbot-) | [#113 - Improve chatbot responses](https://github.com/RounakMishra06/MannSakha-chatbot-/pull/113) | Improved contributor guidance fallback responses | 🔄 Under Review (9 days old) |
 | [Nayanika1402/RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) | [#578 - Improve homestays page](https://github.com/Nayanika1402/RuRal-ReTreats/pull/578) | Enhanced layout and styling of homestays page | 🔄 Under Review |
 | [amritanshu2005/github-readme-quotes](https://github.com/amritanshu2005/github-readme-quotes) | [#1 - Fix README formatting](https://github.com/amritanshu2005/github-readme-quotes/pull/1) | Minor formatting improvements for better readability | 🔄 Open |
 | [amritanshu2005/first-contributions](https://github.com/amritanshu2005/first-contributions) | [#1 - Add to contributors](https://github.com/amritanshu2005/first-contributions/pull/1) | Added name to contributors list | 🔄 Open |
@@ -177,14 +176,18 @@
 
 | 📊 Metric | 🔢 Count |
 |:------:|:-----:|
-| 📝 **Total PRs** | 14+ |
-| ✅ **Merged PRs** | 7 |
-| 🔄 **Open PRs** | 7 |
-| 🌟 **Repositories Contributed** | 10+ |
+| 📝 **Total PRs** | 16+ |
+| ✅ **Merged PRs** | 10+ |
+| 🔄 **Open PRs** | 5+ |
+| 🌟 **Repositories Contributed** | 12+ |
 | 💬 **Issues Created** | 5+ |
 | 🏆 **Projects Maintained** | 3 |
+| 💻 **Total Commits** | 115+ |
 
 </div>
+
+🔗 **[View All My Pull Requests →](https://github.com/search?q=is:pr+author:amritanshu2005&type=pullrequests)**  
+🔗 **[View All My Commits →](https://github.com/search?q=author:amritanshu2005&type=commits)**
 
 ---
 
@@ -208,6 +211,7 @@
 - 🧭 **OpenSource-Compass**: Expanded chatbot knowledge base with contributor-related Q&A
 - 💬 **MannSakha-chatbot**: Improved contributor guidance fallback responses
 - 🎓 **AI-Powered-Career-Advice**: Enhanced Get Started functionality to capture user preferences
+- 📚 **Travel-Book-Backend**: Added JSON loader for chatbot knowledge base updates
 
 </details>
 
@@ -267,11 +271,12 @@ const amritanshuKumar = {
     "AI-Powered-Career-Advice - Career Guidance Platform",
     "MannSakha-chatbot - Mental Health Support",
     "RuRal-ReTreats - Travel & Tourism",
+    "Travel-Book-Backend - Travel Booking System",
     "Git Gang - Open Source Learning"
   ],
   
   goals: {
-    shortTerm: "Contribute to 10+ open source projects",
+    shortTerm: "Contribute to 15+ open source projects",
     midTerm: "Build impactful AI/ML solutions",
     longTerm: "Become a full-stack architect & mentor"
   }
@@ -294,7 +299,8 @@ console.log("Always learning, always building! 🚀");
 | 📝 5+ Pull Requests Merged | ✅ Achieved |
 | 🚀 Created Personal Portfolio | ✅ Completed |
 | 💻 10+ Repositories Contributed | ✅ Achieved |
-| 🎖️ 10+ Merged PRs | 🔄 In Progress |
+| 🎖️ 10+ Merged PRs | ✅ Achieved |
+| 💯 100+ Total Commits | ✅ Achieved |
 | ⭐ 50+ GitHub Stars | 🎯 Target |
 | 🌍 15+ Open Source Projects | 🎯 Target |
 
