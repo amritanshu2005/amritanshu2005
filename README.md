@@ -427,18 +427,9 @@ console.log("Always learning, always building! 🚀");
 
 ### 📚 Currently Learning
 ```
-✅ Advanced React Patterns & Hooks
 ✅ System Design & Architecture
 ✅ Advanced AI/ML Algorithms
 ✅ Docker & Kubernetes
-```
-
-### 🎯 Next on List
-```
-⏳ Microservices Architecture
-⏳ Cloud Technologies (AWS, Azure)
-⏳ GraphQL & Modern APIs
-⏳ DevOps Best Practices
 ```
 
 </div>
