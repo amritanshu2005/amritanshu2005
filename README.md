@@ -102,18 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2005&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amritanshu2005&theme=tokyonight" alt="GitHub Streak" width="60%"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
